@@ -147,7 +147,7 @@ Banner Start
                     <form class="tg-themeform tg-formsearch">
                         <fieldset>
                             <div class="form-group">
-                                <input type="text" name="keyword" class="form-control" placeholder="Keyword">
+                                <input type="text" name="keyword" class="form-control" placeholder="Some place">
                             </div>
                             <div class="form-group tg-inputwithicon">
                                 <div class="locate-me-wrap">
@@ -189,16 +189,8 @@ Banner Start
             </div>
         </div>
     </div>
-    <div id="tg-map" class="tg-map"></div>
-    <div class="tg-mapcontrols">
-        <span id="doc-mapplus"><i class="fa fa-plus"></i></span>
-        <span id="doc-mapminus"><i class="fa fa-minus"></i></span>
-        <span id="doc-lock"><i class="fa fa-lock"></i></span>
-        <span id="tg-geolocation"><i class="fa fa-crosshairs"></i></span>
-    </div>
     <a id="tg-btnmapview" class="tg-btn tg-btnmapview" href="#">
-        <span>Map View</span>
-        <i class="lnr lnr-chevron-down"></i>
+        <span>Go to More Search</span>
     </a>
 </div>
 
@@ -219,14 +211,14 @@ Product
                         </div>
                     </div>
                 </div>
-                <div class="tg-latestserviceproviders">
+                <div class="tg-latestserviceproviders m-bottom-md">
                     <div class="col-xs-12 col-sm-12 col-md-10 col-lg-12">
                         <div class="tg-serviceprovider tg-automotive">
                             <div class="crowd-funding row">
                                 <figure class="tg-featuredimg col-xs-4 col-sm-4 col-lg-4">
                                     <img src="images/serviceproviders/service1.jpg" alt="image description">
                                     <figcaption>
-                                        <a class="tg-themetag tg-categorytag" href="javascript:void(0);">#family</a>
+                                        <a class="tg-themetag tg-pricing" href="javascript:void(0);">$32</a>
                                         <a class="tg-heart tg-liked" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
                                     </figcaption>
                                 </figure>
@@ -250,13 +242,62 @@ Product
                                             </ul>
                                         </div>
                                         <div class="tg-crowd-body">
-                                            <p>Lorem ipsum dolor sit amet, holey caula seyhs alsh iya wuahskka aus dolasd asdo,,a.a ausdsdsd. Yausua ada auas dyas dasda.</p>
+                                            <p>We have 10 acres next to land without fences so you will get to enjoy nature: just hang out on the deck, take a hike in the woods, watch the hummingbirds, pet the goats, go to the beach or gaze at the stars - as long as the moon isn't full. ; ) During the summer, if there isn't any nightly fog, we can see the Milky Way here.</p>
                                             <a href="#" class="cancellation-policies">Overview >></a>
                                             <div id="myprogress">
                                                 <div id="mybar">10 People</div>
                                             </div>
                                             <div id="mydescription">
                                                 Total 100 people
+                                            </div>
+                                            <div class="action-funding">
+                                                <a class="tg-btnfunding" href="#">Join Tour</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> 
+                            </div>                 
+                        </div>
+                    </div>
+                </div>
+                <div class="tg-latestserviceproviders m-bottom-md">
+                    <div class="col-xs-12 col-sm-12 col-md-10 col-lg-12">
+                        <div class="tg-serviceprovider tg-automotive">
+                            <div class="crowd-funding row">
+                                <figure class="tg-featuredimg col-xs-4 col-sm-4 col-lg-4">
+                                    <img src="images/serviceproviders/service2.jpg" alt="image description">
+                                    <figcaption>
+                                        <a class="tg-themetag tg-pricing" href="javascript:void(0);">$250</a>
+                                        <a class="tg-heart tg-liked" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
+                                    </figcaption>
+                                </figure>
+                                <div class="tg-crowddesc col-xs-8 col-sm-8 col-lg-8">
+                                    <div class="tg-crowd-head">
+                                        <div class="tg-companylogo"><a href="#"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
+                                        <div class="tg-companycontent">
+                                            <ul class="tg-tags">
+                                                <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
+                                                <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
+                                            </ul>
+                                            <div class="tg-title">
+                                                <h3><a href="#">Rumah Cemara Papua</a></h3>
+                                            </div>
+                                            <ul class="tg-matadata">
+                                                <li><span class="tg-stars"><span></span></span></li>
+                                                <li>
+                                                    <i class="fa fa-thumbs-o-up"></i>
+                                                    <em>99% (1009 votes)</em>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="tg-crowd-body">
+                                            <p>With a geodesic dome loft & a large deck in the trees, you'll feel like you're in a tree house in the woods. (As we book up months in advance, if you would like a nature retreat here, reserve our sweet Hummingbird Haven: https://www.airbnb.com/rooms/6562632) We are in a quiet yet convenient location.</p>
+                                            <a href="#" class="cancellation-policies">Overview >></a>
+                                            <div id="myprogress">
+                                                <div id="mybar">3 People</div>
+                                            </div>
+                                            <div id="mydescription">
+                                                Total 30 people
                                             </div>
                                             <div class="action-funding">
                                                 <a class="tg-btnfunding" href="#">Join Tour</a>
@@ -300,19 +341,19 @@ Product
                             <figure class="tg-featuredimg">
                                 <img src="images/serviceproviders/service1.jpg" alt="image description">
                                 <figcaption>
-                                    <a class="tg-themetag tg-categorytag" href="javascript:void(0);">#family</a>
+                                    <a class="tg-themetag tg-pricing" href="javascript:void(0);">$67</a>
                                     <a class="tg-heart tg-liked" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="#"><img src="images/logos/profil1.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profil1.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="#">Rumah Cemara Papua</a></h3>
+                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Rumah Cemara Papua</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -330,19 +371,19 @@ Product
                             <figure class="tg-featuredimg">
                                 <img src="images/serviceproviders/service2.jpg" alt="image description">
                                 <figcaption>
-                                    <a class="tg-themetag tg-categorytag" href="javascript:void(0);">#romantic</a>
+                                    <a class="tg-themetag tg-pricing" href="javascript:void(0);">$56</a>
                                     <a class="tg-heart" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="#"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="#">On Fleek Spa</a></h3>
+                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">On Fleek Spa</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -360,19 +401,19 @@ Product
                             <figure class="tg-featuredimg">
                                 <img src="images/serviceproviders/service3.jpg" alt="image description">
                                 <figcaption>
-                                    <a class="tg-themetag tg-categorytag" href="javascript:void(0);">#adventure</a>
+                                    <a class="tg-themetag tg-pricing" href="javascript:void(0);">$35</a>
                                     <a class="tg-heart tg-liked" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="#"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="#">Papua 30 days Trip</a></h3>
+                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Papua 30 days Trip</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -390,19 +431,19 @@ Product
                             <figure class="tg-featuredimg">
                                 <img src="images/serviceproviders/service4.jpg" alt="image description">
                                 <figcaption>
-                                    <a class="tg-themetag tg-categorytag" href="javascript:void(0);">#lux</a>
+                                    <a class="tg-themetag tg-pricing" href="javascript:void(0);">$90</a>
                                     <a class="tg-heart tg-liked" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="#"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="#">Rich House Homestay</a></h3>
+                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Rich House Homestay</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -420,19 +461,19 @@ Product
                             <figure class="tg-featuredimg">
                                 <img src="images/serviceproviders/service5.jpeg" alt="image description">
                                 <figcaption>
-                                    <a class="tg-themetag tg-categorytag" href="javascript:void(0);">#adventure</a>
+                                    <a class="tg-themetag tg-pricing" href="javascript:void(0);">$12</a>
                                     <a class="tg-heart tg-liked" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="#"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="#">Hutan Lindung WayKambas</a></h3>
+                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Hutan Lindung WayKambas</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -450,19 +491,19 @@ Product
                             <figure class="tg-featuredimg">
                                 <img src="images/serviceproviders/service6.jpg" alt="image description">
                                 <figcaption>
-                                    <a class="tg-themetag tg-categorytag" href="javascript:void(0);">#holiday</a>
+                                    <a class="tg-themetag tg-pricing" href="javascript:void(0);">$45</a>
                                     <a class="tg-heart tg-liked" href="javascript:void(0);"><i class="fa fa-heart"></i></a>
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="#"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="#">Tepi Laot Homestay</a></h3>
+                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Tepi Laot Homestay</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>

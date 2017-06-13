@@ -151,13 +151,6 @@
     </script>
 
     <?php
-
-    echo "<script type='text/javascript'>
-            jQuery(document).ready(function(e) {
-                sp_init_map_script('tg-map');
-            });
-          </script>";
-
     echo "<script type='text/javascript' src='js/vendor/jquery-library.js'></script>";
     echo "<script type='text/javascript' src='js/vendor/bootstrap.min.js'></script>";
     echo "<script type='text/javascript' src='js/mapclustering/data.json'></script>";

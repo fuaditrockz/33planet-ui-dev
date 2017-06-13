@@ -299,3 +299,9 @@ input:focus,
 .tg-heart.tg-liked:before {
     background: #ff4d58;
 }
+
+.tg-pricing {
+    position: relative;
+    float: left;
+    background: #f92d3e;
+}

@@ -47,9 +47,12 @@
 												<em>99% (1009 votes)</em>
 											</li>
 										</ul>
-										<button class="tg-btn" type="buttton" data-toggle="modal" data-target=".tg-appointmentModal">
-									    Booking Now
-									    </button>
+										<div class="tg-tags m-top-md">
+										    <a class="tg-themetag tg-pricing" href="#">$240</a>
+										    <button class="tg-btnbuy" type="buttton" data-toggle="modal" data-target=".tg-appointmentModal">
+											    Booking Now
+											</button>
+										</div>
 									</div>
 								</div>
 							</div>
