@@ -1,0 +1,93 @@
+.logo-33planet {
+  width: 20%;
+  height: 10%;
+}
+.price {
+  background-color: #f92d3e;
+  width: 190px !important;
+  padding: 15px;
+  border-radius: 5px;
+}
+.white-color {
+  color: white;
+}
+.tg-widgetcontent ul li a {
+  color: white;
+}
+.m-top-md {
+  margin-top: 30px !important;
+}
+.m-bottom-md {
+  margin-bottom: 30px !important;
+}
+.m-left-md {
+  margin-left: 30px !important;
+}
+.m-right-md {
+  margin-right: 30px !important;
+}
+.m-top-sm {
+  margin-top: 5px !important;
+}
+.m-bottom-sm {
+  margin-bottom: 5px !important;
+}
+.m-left-sm {
+  margin-left: 5px !important;
+}
+.m-right-sm {
+  margin-right: 5px !important;
+}
+.pointer-mouse {
+  cursor: pointer;
+}
+.crowd-funding .tg-featuredimg {
+  width: 30%;
+  padding: 0;
+}
+.crowd-funding .tg-crowddesc {
+  width: 70%;
+  background-color: #fff;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body {
+  margin: 20px 0;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body p {
+  margin: 0 !important;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body #myprogress {
+  margin: 20px 0;
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 5px;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body #myprogress #mybar {
+  width: 10%;
+  height: 30px;
+  background-color: #f92d3e;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  border-radius: 5px;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body #mydescription {
+  height: 50px;
+  float: right;
+  margin: 10px 0;
+  font-size: 12px;
+  font-weight: 500;
+  color: #484848;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body .action-funding {
+  margin: 20px 0;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body .action-funding .tg-btnfunding {
+  padding: 10px 40px;
+  color: #f92d3e;
+  border: 2px solid #f92d3e;
+  border-radius: 5px;
+}
+.crowd-funding .tg-crowddesc .tg-crowd-body .action-funding .tg-btnfunding:hover {
+  background-color: #f92d3e;
+  color: #fff;
+}
