@@ -27,14 +27,14 @@
                                                 <a href="/index.php?page=login">Register</a>
                                             </li>
                                             <li>
-                                                <a href="/index.php?page=login"Login</a>
+                                                <a href="/index.php?page=login">Login</a>
                                             </li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                         </nav>
-                        <a class="tg-btn tg-btnpostanewjob" href="dashboard.html">Become an Alien</a>
+                        <a class="tg-btn tg-btnpostanewjob" href="/index.php?page=landing-alien">Become an Alien</a>
                     </div>
                 </div>
             </div>
