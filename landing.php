@@ -346,14 +346,14 @@ Product
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profil1.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="/index.php?page=product"><img src="images/logos/profil1.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Rumah Cemara Papua</a></h3>
+                                        <h3><a href="/index.php?page=product">Rumah Cemara Papua</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -376,14 +376,14 @@ Product
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">On Fleek Spa</a></h3>
+                                        <h3><a href="/index.php?page=product">On Fleek Spa</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -406,14 +406,14 @@ Product
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Papua 30 days Trip</a></h3>
+                                        <h3><a href="/index.php?page=product">Papua 30 days Trip</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -436,14 +436,14 @@ Product
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="/index.php?page=product"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Rich House Homestay</a></h3>
+                                        <h3><a href="/index.php?page=product">Rich House Homestay</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -466,14 +466,14 @@ Product
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="/index.php?page=product"><img src="images/logos/profile2.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Hutan Lindung WayKambas</a></h3>
+                                        <h3><a href="/index.php?page=product">Hutan Lindung WayKambas</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
@@ -496,14 +496,14 @@ Product
                                 </figcaption>
                             </figure>
                             <div class="tg-serviceprovidercontent">
-                                <div class="tg-companylogo"><a href="http://127.0.0.1:1234/index.php?page=product"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
+                                <div class="tg-companylogo"><a href="/index.php?page=product"><img src="images/logos/profile3.jpg" alt="image description"></a></div>
                                 <div class="tg-companycontent">
                                     <ul class="tg-tags">
                                         <li><a class="tg-tag tg-featuredtag" href="#">featured</a></li>
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Tepi Laot Homestay</a></h3>
+                                        <h3><a href="/index.php?page=product">Tepi Laot Homestay</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>

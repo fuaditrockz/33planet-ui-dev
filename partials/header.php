@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-xs-12">
-                    <strong class="tg-logo logo-33planet"><a href="http://127.0.0.1:1234"><img src="images/33planet-new-logo.png" alt="image description"></a></strong>
+                    <strong class="tg-logo logo-33planet"><a href="/index.php?page=landing"><img src="images/33planet-new-logo.png" alt="image description"></a></strong>
                     <div class="tg-rightarea">
                         <nav id="tg-nav" class="tg-nav">
                             <div class="navbar-header">
@@ -24,10 +24,10 @@
                                         <a href="#">Account</a>
                                         <ul class="sub-menu">
                                             <li>
-                                                <a href="http://127.0.0.1:1234/index.php?page=login">Register</a>
+                                                <a href="/index.php?page=login">Register</a>
                                             </li>
                                             <li>
-                                                <a href="http://127.0.0.1:1234/index.php?page=login">Login</a>
+                                                <a href="/index.php?page=login"Login</a>
                                             </li>
                                         </ul>
                                     </li>

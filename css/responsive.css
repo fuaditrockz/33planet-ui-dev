@@ -553,6 +553,7 @@
 	.tg-certicicatesawards ul li .tg-textbox {padding: 30px 0;}
 }
 @media (max-width:640px){
+	.tg-mapinnerbanner {margin-top: 20px;}
 	.tg-detailpageheadcontent .tg-title h1 {font-size: 20px;}
 	.tg-certificatesawardsModal .tg-modaldialog{width:100%;}
 }
@@ -723,7 +724,7 @@
 }
 @media (max-width:480px){
 	.tg-btnbuy {
-		margin: 10px 0 0 0;
+		margin: 0 0 0 10px;
 	}
 	.tg-detailpagehead {
         min-height: 350px;
