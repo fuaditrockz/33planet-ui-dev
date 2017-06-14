@@ -14,7 +14,7 @@
 							<p>You can become a tour guide in every place that you lived. It's cool to be a job and make a money. Find a thousand tourist that will need your service and make something different on the tourism of Indonesia. And the other hands, 33planet was get supported by Tourism Government and all of the cool stakeholder in Indonesia.</p>
 							<p>Become an Alien now, and raise success on travel field.</p>
 						</div>
-						<a class="tg-btn" href="javascript:void(0);">View More</a>
+						<a class="tg-btn" href="javascript:void(0);">Make a Money</a>
 					</div>
 				</div>
 			</div>
