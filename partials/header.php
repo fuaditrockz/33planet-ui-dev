@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-xs-12">
-                    <strong class="tg-logo logo-33planet"><a href="/index.php?page=landing"><img src="images/33planet-new-logo.png" alt="image description"></a></strong>
+                    <strong class="tg-logo logo-33planet"><a href="/index.php?page=landing"><img src="images/teleport-logo.png" alt="image description"></a></strong>
                     <div class="tg-rightarea">
                         <nav id="tg-nav" class="tg-nav">
                             <div class="navbar-header">
@@ -34,7 +34,7 @@
                                 </ul>
                             </div>
                         </nav>
-                        <a class="tg-btn tg-btnpostanewjob" href="/index.php?page=landing-alien">Become an Alien</a>
+                        <a class="tg-btn tg-btnpostanewjob" href="/index.php?page=landing-alien">Become an Teleporter</a>
                     </div>
                 </div>
             </div>
