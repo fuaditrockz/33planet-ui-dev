@@ -322,6 +322,7 @@ Product
 Product
 *************************************-->
 <main id="tg-main" class="tg-main tg-haslayout">
+
     <section class="tg-main-section tg-haslayout">
         <div class="container">
             <div class="row">
@@ -473,7 +474,7 @@ Product
                                         <li><a class="tg-tag tg-verifiedtag" href="#">verified</a></li>
                                     </ul>
                                     <div class="tg-title">
-                                        <h3><a href="/index.php?page=product">Hutan Lindung WayKambas</a></h3>
+                                        <h3><a href="http://127.0.0.1:1234/index.php?page=product">Hutan Lindung WayKambas</a></h3>
                                     </div>
                                     <ul class="tg-matadata">
                                         <li><span class="tg-stars"><span></span></span></li>
