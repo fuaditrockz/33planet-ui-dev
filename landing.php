@@ -9,7 +9,7 @@ Banner Start
                     <div class="tg-featuredprofiles">
                         <div id="tg-featuredprofileslider" class="tg-featuredprofileslider owl-carousel">
                             <div class="item tg-profile tg-featuredprofile">
-                                <h1><span>Expedition</span><span>Papua Tribes</span></h1>
+                                <h1><span>Exped</span><span>Papua Tribes</span></h1>
                                 <figure>
                                     <img src="images/slider/papua-tribe.jpg" alt="image description">
                                     <figcaption>
