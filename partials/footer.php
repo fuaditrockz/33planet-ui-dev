@@ -20,7 +20,7 @@
                                 <i class="lnr lnr-users"></i>
                             </span>
                             <div class="tg-featurecontent">
-                                <h3>Verified Host Service</h3>
+                                <h3>Verified Teleporter Service</h3>
                                 <span>More than 350 service providers</span>
                             </div>
                         </div>
