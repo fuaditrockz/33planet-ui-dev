@@ -97,7 +97,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
                     <div class="tg-footercolumn tg-widget tg-widgetusefullinks">
                         <div class="tg-widgettitle">
-                            <h3>33planet</h3>
+                            <h3>Teleport</h3>
                         </div>
                         <div class="tg-widgetcontent">
                             <ul>
