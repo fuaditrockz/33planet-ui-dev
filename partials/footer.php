@@ -101,7 +101,7 @@
                         </div>
                         <div class="tg-widgetcontent">
                             <ul>
-                                <li><a href="#">About Us</a></li>
+                                <li><a href="/index.php?page=about-us">About Us</a></li>
                                 <li><a href="#">Careers</a></li>
                                 <li><a href="#">Press</a></li>
                                 <li><a href="#">Policies</a></li>

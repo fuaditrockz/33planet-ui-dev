@@ -772,7 +772,7 @@ li.tg-rss a{background:#ff6600;}
 .tg-btndropdown span,
 .tg-btndropdown i{color:#fff;}
 .tg-btndropdown em{padding: 3px 0 2px;}
-.tg-btndropdown em img{display: block;}
+.tg-btndropdown em img{display: block; max-width: 30px;}
 .tg-btndropdown span{padding: 0 20px 0 10px;}
 .tg-btndropdown i{
 	line-height: 6px;
@@ -1132,8 +1132,25 @@ body.tg-home .tg-main{padding: 20px 0;}
 ==============================================*/
 .tg-topbar{
 	z-index: 4;
-	background: #333;
 	position: relative;
+}
+.host-color {
+	background: #42a5f5;
+}
+.user-color {
+	background: #ed2597;
+}
+.verified {
+	font-size: 10px !important;
+	font-weight: 800;
+	color: #fff !important;
+	background-color: #ed2597;
+	padding: 1px 10px;
+	border-radius: 50px;
+}
+.unverified {
+	font-size: 10px !important;
+	font-weight: 500;
 }
 .tg-languagesdropdown{float: left;}
 .tg-addressinfo{
@@ -1426,7 +1443,7 @@ body.tg-login .tg-useradminbox,
 }
 .tg-rightarea .tg-btn{
 	float: right;
-	margin: 0 0 0 40px;
+	margin: 0 0 0 30px;
 }
 /*==========================================================================================
 								Header Banner And Slider

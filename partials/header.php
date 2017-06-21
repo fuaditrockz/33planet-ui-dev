@@ -1,4 +1,5 @@
 <header <?php echo $header == 1 ? 'id="tg-header" class="tg-header tg-haslayout"' : '' ?>>
+    <?php include('account.php'); ?>
     <div class="tg-navigationarea">
         <div class="container">
             <div class="row">
@@ -18,7 +19,7 @@
                                 <ul>
                                     <li class="current-menu-item"><a href="#">Home</a></li>
                                     <li><a href="aboutus.php">Search</a></li>
-                                    <li><a href="aboutus.php">About</a></li>
+                                    <li><a href="/index.php?page=about-us">About</a></li>
                                     <li><a href="#">Help</a></li>
                                     <li class="menu-item-has-children">
                                         <a href="#">Account</a>

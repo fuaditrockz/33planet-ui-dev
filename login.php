@@ -1,22 +1,4 @@
 <!--************************************
-		Inner Page Banner Start
-*************************************-->
-<div class="tg-innerpagebanner">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-				<div class="tg-pagetitle">
-					<h1>Login / Register</h1>
-				</div>
-				<ol class="tg-breadcrumb">
-					<li><a href="#">Home</a></li>
-					<li class="tg-active">Login - Register</li>
-				</ol>
-			</div>
-		</div>
-	</div>
-</div>
-<!--************************************
 		Main Start
 *************************************-->
 <main id="tg-main" class="tg-main tg-paddingzero tg-haslayout">
