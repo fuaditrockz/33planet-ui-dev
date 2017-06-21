@@ -1636,6 +1636,7 @@ body.tg-login .tg-useradminbox,
 	text-transform: capitalize;
 }
 .tg-featuredprofiles h1 span{
+	min-width: 275px;
 	z-index: 3;
 	float: left;
 	padding: 0 8px;

@@ -9,7 +9,7 @@ Banner Start
                     <div class="tg-featuredprofiles">
                         <div id="tg-featuredprofileslider" class="tg-featuredprofileslider owl-carousel">
                             <div class="item tg-profile tg-featuredprofile">
-                                <h1><span>Exped</span><span>Papua Tribes</span></h1>
+                                <h1><span>Adventures With</span><span>Asmat People</span></h1>
                                 <figure>
                                     <img src="images/slider/papua-tribe.jpg" alt="image description">
                                     <figcaption>
@@ -39,7 +39,7 @@ Banner Start
                                 </figure>
                             </div>
                             <div class="item tg-profile tg-featuredprofile">
-                                <h1><span>Adventure</span><span>Goa Pindul</span></h1>
+                                <h1><span>Heaven Light</span><span>in Goa Pindul</span></h1>
                                 <figure>
                                     <img src="images/slider/goa-pindul-jogja.jpg" alt="image description">
                                     <figcaption>
@@ -69,7 +69,7 @@ Banner Start
                                 </figure>
                             </div>
                             <div class="item tg-profile tg-featuredprofile">
-                                <h1><span>Bali</span><span>Holiday Inn</span></h1>
+                                <h1><span>Huge Trip</span><span>Bali</span></h1>
                                 <figure>
                                     <img src="images/slider/bali.jpg" alt="image description">
                                     <figcaption>
@@ -99,7 +99,7 @@ Banner Start
                                 </figure>
                             </div>
                             <div class="item tg-profile tg-featuredprofile">
-                                <h1><span>History</span><span>Candi Muara</span></h1>
+                                <h1><span>History of</span><span>Candi Borobudur</span></h1>
                                 <figure>
                                     <img src="images/slider/candi.jpg" alt="image description">
                                     <figcaption>
