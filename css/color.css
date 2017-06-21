@@ -1,5 +1,5 @@
 /*=============================================
-			Theme Color
+            Theme Color
 =============================================*/
 
 a,
@@ -82,7 +82,7 @@ blockquote:before,
 
 
 /*=============================================
-			Theme Background Color
+            Theme Background Color
 =============================================*/
 
 .tg-btn:before,
@@ -130,7 +130,11 @@ blockquote:before,
 .tg-dashboardappointment .tg-btntimeedit .tg-btnedite,
 .geo_distance.ui-slider .ui-slider-handle,
 .pin {
-    background: #eb0487;
+  background: #ed2597; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, #42a5f5 , #ed2597); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, #42a5f5 , #ed2597); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, #42a5f5 , #ed2597); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, #42a5f5 , #ed2597); /* Standard syntax */
 }
 
 .tg-btnedite,
@@ -160,7 +164,7 @@ blockquote:before,
 
 
 /*=============================================
-			Theme Border Color
+            Theme Border Color
 =============================================*/
 
 .tg-theme-tag:after,
@@ -194,7 +198,7 @@ input:focus,
 
 
 /*=============================================
-			Theme Categories Colors
+            Theme Categories Colors
 =============================================*/
 
 .tg-automotive .tg-categoryicon,
@@ -269,7 +273,7 @@ input:focus,
 .tg-companynameandviews,
 .tg-applicantapplied .tg-jobmataicon,
 .tg-totalappointment {
-    background: #3f51b5;
+    background: #42a5f5;
 }
 
 .tg-healthfitness .tg-categoryicon,
