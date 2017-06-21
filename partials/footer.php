@@ -41,7 +41,7 @@
             <div class="tg-fourcolumns">
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3">
                     <div class="tg-footercolumn">
-                        <strong class="tg-logo"><a href="#"><img src="images/33planet-new-logo.png" alt="image description"></a></strong>
+                        <strong class="tg-logo"><a href="#"><img src="images/teleport/teleport2.png" alt="image description"></a></strong>
                         <div class="tg-description">
                             <p class="white-color">Conseetur elit sed eiumod  apor incidunt ut lbore et dolore <a href="#">more...</a></p>
                         </div>

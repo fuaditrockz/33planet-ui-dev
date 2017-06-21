@@ -85,7 +85,7 @@
 											<input type="password" name="retype-password" class="form-control" placeholder="Retype Password">
 										</div>
 										<div class="form-group">
-											<img src="images/33planet-new-logo.png" alt="image description">
+											<img src="images/teleport/teleport2.png" alt="image description">
 										</div>
 										<div class="form-group">
 											<div class="tg-checkbox">
@@ -202,7 +202,7 @@
 											<input type="password" name="retype-password" class="form-control" placeholder="Retype Password">
 										</div>
 										<div class="form-group">
-											<img src="images/33planet-new-logo.png" alt="image description">
+											<img src="images/teleport/teleport2.png" alt="image description">
 										</div>
 										<div class="form-group">
 											<div class="tg-checkbox">
